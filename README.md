@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I am Vinod Pillai, a Chief Solution Architect with
 
 ## 🛠 Certifications
 
-- **Sun Certified Java Programmer**
 - **Google AI Essentials**
 - **MongoDB for Java Developers**
+- **Sun Certified Java Programmer**
 
 ## 📚 Education
 
