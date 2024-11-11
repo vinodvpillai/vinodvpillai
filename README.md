@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am Vinod Pillai, a Chief Solution Architect with
 - **Master of Computer Science** - University of Wollongong
 - **Bachelor of Computer Application** - Gujarat University
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/vinodvpillai/" target="_blank"><img align="center" src="https://github.com/vinodvpillai/vinodvpillai/blob/main/resources/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
 </p>
