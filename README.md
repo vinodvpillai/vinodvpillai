@@ -26,5 +26,5 @@ Hello and welcome to my GitHub profile! As a Chief Solution Architect with 13+ y
 ## 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/vinodvpillai/" target="_blank"><img align="center" src="https://github.com/vinodvpillai/vinodvpillai/blob/main/resources/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
-<a href="https://medium.com/@vinodthebest" target="_blank"><img align="center" src="https://github.com/vinodvpillai/vinodvpillai/blob/main/resources/image.png" alt="aavila0707" height="30" width="40" /></a>
+<a href="https://medium.com/@vinodthebest" target="_blank"><img align="center" src="https://github.com/vinodvpillai/vinodvpillai/blob/main/resources/Medium-Logo-White-RGB@1x.png" alt="aavila0707" height="40" width="100" /></a>
 </p>
