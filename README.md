@@ -13,6 +13,7 @@ Hello and welcome to my GitHub profile! As a Chief Solution Architect with 13+ y
 
 ## 🛠 Certifications
 
+- **Google Data Analytics**
 - **Google AI Essentials**
 - **MongoDB for Java Developers**
 - **Sun Certified Java Programmer**
